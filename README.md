@@ -2,7 +2,7 @@
 
 ## 🩺Contexto del Problema
 
-El centro médico para el cual fuimos contratados como Ingenieros en Analítica de Datos enfrenta desafíos significativos en la gestión eficiente de sus citas médicas. La programación manual de citas ha generado demoras, errores administrativos y una experiencia poco satisfactoria para sus pacientes. Ante esta situación, se nos encomendó desarrollar una solución tecnológica para que los Ejecutivos de Atención del Centro Médico puedan gestionar de manera más eficiente para gestionar pacientes, médicos, especialidades, horarios y el estado de cada cita (programada, completada o cancelada).
+El centro médico para el cual fuimos contratados como Ingenieros en Analítica de Datos enfrenta desafíos significativos en la gestión eficiente de sus citas médicas. La programación manual de citas ha generado demoras, errores administrativos y una experiencia poco satisfactoria para sus pacientes. Ante esta situación, se nos encomendó desarrollar una solución tecnológica para que los Ejecutivos de Atención del Centro Médico puedan gestionar las citas de sus pacientes,los médicos, especialidades, horarios y el estado de cada cita (programada, completada o cancelada).
 
 ## 🎯Objetivo del Proyecto
 
