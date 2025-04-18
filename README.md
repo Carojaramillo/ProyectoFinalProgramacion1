@@ -36,7 +36,7 @@ Los conceptos implementados fueron:
 - `cita.py`
 - `centro_medico.py`
 
-## 🖥️ ¿Cómo Ejecutar?
+## 🖥️ ¿Cómo ejecutar?
 
 1. Asegúrese de tener Python 3 instalado.
 2. Ejecute el archivo principal desde consola: main.py
