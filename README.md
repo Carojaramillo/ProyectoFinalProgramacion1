@@ -29,7 +29,7 @@ Los conceptos implementados fueron:
 
 ## 📁 Archivos Principales
 
-- `main_especialidad_por_numero.py`: programa principal ejecutable
+- `main.py`: programa principal ejecutable
 - `model/`: contiene todas las clases organizadas en módulos:
 `paciente.py`
 `medico.py`
@@ -43,7 +43,7 @@ Los conceptos implementados fueron:
 
 ## 🧭 Flujo de Uso del Sistema
 
-1. Ingrese el número de cédula del paciente: El sistema validará si está registrado en la base de datos simulada. Si su número de cédula no registra en la base de datos, el sistema indicará - "Paciente no resistrado".
+1. Ingrese el número de cédula del paciente: El sistema validará si está registrado en la base de datos simulada. Si su número de cédula no registra en la base de datos, el sistema indicará - "Paciente no registrado".
 
 2. Seleccione la Especialidad del Médico: Se relacionará una lista numerada con las especialidades disponibles (1.Medicina General, 2.Pediatría, 3. Dermatología, 4. Neurocirugía).
 
